@@ -14,8 +14,8 @@ I love the entire process of developing Machine Learning Solutions. I love the c
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/oltir/"><img align="left" src="https://raw.githubusercontent.com/OltiRocka/OltiRocka/main/images/linkedin.svg" alt="Olti Roka | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/oltirocka"><img align="left" src="https://raw.githubusercontent.com/OltiRocka/OltiRocka/main/images/instagram.svg" alt="Olti Roka | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/oltir/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Olti Roka | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/oltirocka"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Olti Roka | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -54,5 +54,3 @@ I love the entire process of developing Machine Learning Solutions. I love the c
 [![Olti's github stats](https://github-readme-stats.vercel.app/api?username=OltiRocka)](https://github.com/OltiRocka)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OltiRocka&layout=compact)](https://github.com/OltiRocka)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=OltiRocka.OltiRocka)](https://www.yushi.dev/)
