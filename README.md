@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.canva.com/design/DAFwYAjIW8Q/view?embed" alt="my banner">
+<img src="https://www.canva.com/design/DAFwYAjIW8Q/view"/>
 **OltiRocka/OltiRocka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
