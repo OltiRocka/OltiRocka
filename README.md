@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <a href="https://www.roka.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/OltiRocka/OltiRocka/blob/b9759cfeb16f4455e838967b818ae6976ec3ae71/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="my banner"></a>
 </p>
 
